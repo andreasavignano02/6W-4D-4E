@@ -1,7 +1,6 @@
 {
   "name": "6w-4d-4e",
   "version": "1.0.0",
-  "description": "",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,5 +18,6 @@
   "homepage": "https://github.com/andreasavignano02/6W-4D-4E#readme",
   "dependencies": {
     "bootstrap": "^5.2.2"
-  }
+  },
+  "description": ""
 }
